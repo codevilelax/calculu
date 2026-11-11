@@ -12,11 +12,14 @@ Também tem favoritos com backup, modo noturno e alertas de segurança.
 
 Ferramenta de apoio. Confira sempre a prescrição e siga o protocolo da unidade.
 
+O app está publicado em **https://calculu-app.netlify.app**.
+
 ## Arquivos
 
 - `index.html`: o app inteiro (tela, estilo e contas).
 - `sw.js`: deixa o app abrir sem internet e avisa quando sai uma versão nova. Precisa ficar ao lado do `index.html`.
 - `testes/`: testes automáticos.
+- `publicar.js`: envia o `index.html` e o `sw.js` para o Netlify. Rode com `node publicar.js`, depois dos testes.
 
 ## Antes de publicar qualquer mudança
 
