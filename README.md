@@ -1,6 +1,6 @@
 # CalcuLu
 
-Calculadora de medicação feita para a Enfermeira Lu (UTI neonatal). Funciona no celular e sem internet.
+Calculadora de medicação feita para (UTI neonatal). Funciona no celular e sem internet.
 
 O app tem quatro modos:
 - **Dose pronta:** quantos mL aspirar.
